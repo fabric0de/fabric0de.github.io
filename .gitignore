@@ -20,3 +20,6 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# 프리터 자동저장
+.prettierignore

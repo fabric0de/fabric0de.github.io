@@ -1,6 +1,5 @@
 ---
 title: Git 브랜치 main과 master 차이
-author: fabric0de
 date: 2023-12-15 15:20:00 +0800
 categories: [ect.]
 tags: [Git, main, master, Branch, github]
@@ -16,10 +15,10 @@ master 브랜치는 기존에 git에서 사용되던 기본 브랜치이다.
 
 ---
 
-> **왜 main을 권장할까?**
+> **왜 main을 권장할까?**  
 > 블랙 리브스 매터(Black Lives Matter, 흑인 생명은 소중하다) 운동으로 인해master 브랜치를 main 브랜치로 이름을 변경하였다.
 > 인종차별 반대라는 의미가 있는 변경인 것이다.  
-> {: .prompt-info }
+{: .prompt-info }
 
 ## **git 기본 브랜치 변경하기**
 

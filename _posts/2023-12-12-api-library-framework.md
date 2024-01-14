@@ -1,6 +1,5 @@
 ---
 title: API, 라이브러리, 프레임워크 개념
-author: fabric0de
 date: 2023-12-12 16:32:00 +0800
 categories: [ect.]
 tags: [API, Library, Framework]
