@@ -26,19 +26,19 @@ git을 사용하다 보면 github 기본 브랜치와 git 기본 브랜치명이
 
 불편함을 해소하기 위해 git 기본 브랜치를 main으로 변경하는 방법은 아래와 같다.
 
-#### **1\. git 버전 확인하기**
+#### **1. git 버전 확인하기**
 
 ```
 $ git --version
 ```
 
-#### **2\. global gitcofig 설정하기**
+#### **2. global gitcofig 설정하기**
 
 ```
 $ git config --global init.defaultBranch main
 ```
 
-#### **3.defalutBranch 확인하기**
+#### **3. defalutBranch 확인하기**
 
 ```
 $ git config --get  init.defaultBranch
