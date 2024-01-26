@@ -5,7 +5,7 @@ categories: [프론트엔드, TypeScript]
 tags: [js, javascript, ts, typescript]
 ---
 
-## TypeScript란
+## TypeScript란?
 
 
 ## TypeScript의 특징
