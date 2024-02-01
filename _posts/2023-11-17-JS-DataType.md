@@ -94,5 +94,5 @@ function greet(name) {
 ```
   
   
-# 참고 사이트
+# 참고 자료
 - <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Data_structures" target="_blank">JavaScript의 타입과 자료구조 - MDN</a>
