@@ -2,7 +2,7 @@
 title: JS 데이터 타입
 date: 2023-11-17 21:14:00 +0800
 categories: [프론트엔드, JavaScript]
-tags: [JS, DataType, JavaScript]
+tags: [JS, DataType, JavaScript, String, Number]
 ---
 
 
