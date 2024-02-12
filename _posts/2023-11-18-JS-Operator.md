@@ -1,8 +1,8 @@
 ---
-title: JS 연산자
+title: JS 연산자 종류와 예시
 date: 2023-11-18 11:24:00 +0800
 categories: [프론트엔드, JavaScript]
-tags: [JS, JavaScript, 연산자]
+tags: [JS, JavaScript, 연산자, JS연산자]
 ---
 
 # JS 연산자
